@@ -15,7 +15,7 @@ def _():
 def _(np):
     '''
     This example uses a list to calculate the parameters for the projectile.
-    Note for  values equally distand from 45, the distance travelled is the same
+    Note for  values equally distant from 45, the distance travelled is the same
     but the time of flight is longer.
 
     '''
